@@ -88,7 +88,3 @@ Welcome to the ultimate resource for **Microsoft Azure Fundamentals (AZ-900)** c
 
 2. **What are the cloud computing benefits that provide continuous user access to a cloud-based application with minimal downtime?**  
    **Answer:** High Availability  
-
----
-
-This README includes **all the questions and answers** from your file, structured for clarity and easy navigation. Would you like me to format this as a **Markdown file** for GitHub?
