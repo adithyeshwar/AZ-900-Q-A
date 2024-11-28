@@ -1,7 +1,3 @@
-You're right! I'll focus exclusively on the questions and answers you provided without adding placeholders like "more questions." Here's the updated **GitHub README** format including **all the questions and answers** from your input:
-
----
-
 # 🚀 **AZ-900 Exam Q&A Repository**
 
 Welcome to the ultimate resource for **Microsoft Azure Fundamentals (AZ-900)** certification. This repository contains a comprehensive set of **questions and answers** to help you prepare effectively for the exam. 🌟
